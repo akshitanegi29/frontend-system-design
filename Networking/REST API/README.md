@@ -1,0 +1,3 @@
+- npm init -> for creating package.json
+- npm i express --save
+- started a server at 3000 port and posted a message at / req
